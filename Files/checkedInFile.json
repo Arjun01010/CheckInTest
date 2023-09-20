@@ -1,1 +1,10 @@
-[{"User":"Arjun007","FileName":"A.txt"},{"User":"Arjun007","FileName":"C.txt"},{"User":"user2","FileName":"D.txt"}]
+[
+    {
+        "User": "Arjun007",
+        "FileName": "A.txt"
+    },
+    {
+        "User": "Arjun007",
+        "FileName": "C.txt"
+    }
+]
